@@ -1,0 +1,158 @@
+body {
+    color : #40514E;
+    margin: 0;
+    text-align: center;
+    font-family:'Poppins', sans-serif;;
+    
+}
+h1 {
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    
+  
+    
+}
+
+h1,h2{
+    color :  #66BFBF;
+}
+
+h3 , a {
+    color : #11999E;
+}
+
+.h2{
+    font-weight:normal;
+}
+    
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3 {
+    
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: #e8ffff;
+    position : relative;
+    padding-top : 100px;
+    margin-bottom: 30px;
+   
+    
+}
+
+
+
+.pro {
+    text-decoration :underline;
+}
+
+.bottom-cloud {
+    position : absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position : absolute;
+    top : 50px;
+    right: 400px;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    
+    line-height: 2;
+}
+
+.skill-row h3 {
+    text-align: left;
+}
+
+.skill-row p {
+    text-align: left;
+}
+
+.skill-row img{
+    width: 25%;
+    
+}
+.computer {
+    float: left;
+    margin-right: 30px;
+
+}
+
+.chilli {
+    margin-left: 30px;
+    float : right;
+}
+
+hr {
+    border-style : none;
+    border-top-style : dotted  ;
+    border-top-width: 10px;
+    border-color: #EAF6F6;
+    width: 80px;
+    height: 0;
+    margin : 100px auto;
+    
+    
+}
+
+.description {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.contact-me {
+    line-height: 2;
+    width: 50%;
+    margin: 0 auto 80px;
+
+}
+
+.btn {
+    display: inline-block;
+    color : #fff;
+    font-size : 20px;
+    margin-top : 30px;
+    text-decoration : none;
+    background: linear-gradient(to top, #57a8a8 50%,#64d8d8 );
+    padding: 5px 20px;
+    font-weight: bold;
+    border-radius : 10px;
+    transition: background .5s ease-in-out ;
+}
+
+.btn:hover {
+    background: linear-gradient(to top, #57a8a8 40%,#64d8d8 );
+}
+.bottom-container p {
+    margin-bottom:0;
+    padding-top: 15px;
+    color :#fff;
+    font-family: cursive;
+    
+
+}
+.bottom-container {
+    background: #66BFBF;
+    padding: 50px;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
